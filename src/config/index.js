@@ -1,5 +1,5 @@
 const config = {
-    production:{
+    production: {
         PORT: 1234,
     },
     development: {
